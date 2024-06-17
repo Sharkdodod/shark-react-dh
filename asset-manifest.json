@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Sharkdodod.github.io/static/css/main.1fad0a2e.css",
-    "main.js": "/Sharkdodod.github.io/static/js/main.9526a7d6.js",
-    "static/js/453.904c4f57.chunk.js": "/Sharkdodod.github.io/static/js/453.904c4f57.chunk.js",
-    "index.html": "/Sharkdodod.github.io/index.html",
-    "main.1fad0a2e.css.map": "/Sharkdodod.github.io/static/css/main.1fad0a2e.css.map",
-    "main.9526a7d6.js.map": "/Sharkdodod.github.io/static/js/main.9526a7d6.js.map",
-    "453.904c4f57.chunk.js.map": "/Sharkdodod.github.io/static/js/453.904c4f57.chunk.js.map"
+    "main.css": "/Sharkdodod.github.io/shark-react-dh/static/css/main.1fad0a2e.css",
+    "main.js": "/Sharkdodod.github.io/shark-react-dh/static/js/main.f8a40783.js",
+    "static/js/453.904c4f57.chunk.js": "/Sharkdodod.github.io/shark-react-dh/static/js/453.904c4f57.chunk.js",
+    "index.html": "/Sharkdodod.github.io/shark-react-dh/index.html",
+    "main.1fad0a2e.css.map": "/Sharkdodod.github.io/shark-react-dh/static/css/main.1fad0a2e.css.map",
+    "main.f8a40783.js.map": "/Sharkdodod.github.io/shark-react-dh/static/js/main.f8a40783.js.map",
+    "453.904c4f57.chunk.js.map": "/Sharkdodod.github.io/shark-react-dh/static/js/453.904c4f57.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1fad0a2e.css",
-    "static/js/main.9526a7d6.js"
+    "static/js/main.f8a40783.js"
   ]
 }
